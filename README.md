@@ -1,16 +1,22 @@
-## Hi there 👋
+# Abd Elouahab Boutefsout
 
-<!--
-**abd-elouahab/abd-elouahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Science & AI Student — ENSA Agadir**
 
-Here are some ideas to get you started:
+4th-year engineering student at the École Nationale des Sciences Appliquées d'Agadir, specializing in Data Science and Artificial Intelligence. Passionate about building intelligent systems that solve real-world problems and create measurable impact.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently seeking an internship opportunity where I can apply my academic background and contribute to meaningful projects in the fields of AI, data engineering, and software development.
+
+---
+
+### 🌍 Languages
+French • English • Arabic
+
+### 📍 Location
+Agadir, Morocco
+
+### 📬 Contact
+abdelihabboutefsout@gmail.com
+
+---
+
+*Open to opportunities — feel free to reach out.*
