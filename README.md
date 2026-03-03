@@ -33,7 +33,7 @@ class AbdElouahab:
         self.status      = "🔍 Actively seeking internship"
         self.location    = "Agadir, Morocco 🇲🇦"
         self.languages   = ["French 🇫🇷", "English 🇬🇧", "Arabic 🇲🇦"]
-        self.contact     = "abdelilhabboutefsout@gmail.com"
+        self.contact     = "abdeloihabboutefsout@gmail.com"
 
     def mission(self):
         return "Build AI systems that solve real problems and create real impact."
@@ -69,7 +69,6 @@ class AbdElouahab:
 **Backend & Databases**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
@@ -78,24 +77,11 @@ class AbdElouahab:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|---|---|---|
-| 🔧 **L'M3alem AI** | AI-powered marketplace connecting clients with Moroccan artisans. Grok Vision AI diagnoses repair photos via conversational chat in Darija, ML model estimates price, algorithm matches nearest artisan. | `FastAPI` `React` `PostgreSQL` `Grok AI` `scikit-learn` |
-| ⚓ **Port Management System** | Secure information system for a modern commercial port. Full PL/SQL business logic, role-based access control, triggers, stored procedures and Oracle DBA architecture. | `Oracle DB` `PL/SQL` `Spring Boot` `React` |
-
-</div>
-
----
 
 ## 📊 GitHub Stats
 
