@@ -24,13 +24,13 @@
 ## 🧠 About Me
 
 ```python
-class AbdElouahab:
+class Abdelouahab:
     def __init__(self):
-        self.name        = "Abd Elouahab Boutefsout"
+        self.name        = "Abdel Ouahab Boutefsout"
         self.school      = "ENSA Agadir — École Nationale des Sciences Appliquées"
-        self.level       = "4th Year Engineering Student"
+        self.level       = "5th Year Engineering Student"
         self.field       = "Data Science & Artificial Intelligence"
-        self.status      = "🔍 Actively seeking internship"
+        self.status      = "🔍 Actively seeking PFE"
         self.location    = "Agadir, Morocco 🇲🇦"
         self.languages   = ["French 🇫🇷", "English 🇬🇧", "Arabic 🇲🇦"]
         self.contact     = "abdeloihabboutefsout@gmail.com"
@@ -87,7 +87,7 @@ class AbdElouahab:
 
 <div align="center">
 
-![Abd Elouahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd-elouahab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+![Abdel Ouahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abd-elouahab&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abd-elouahab&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
