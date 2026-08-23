@@ -2,7 +2,7 @@
 
 # مرحباً — Bonjour — Hello 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Abd+Elouahab+Boutefsout;Data+Science+%26+AI+Engineer;ENSA+Agadir+%7C+4th+Year;Building+intelligent+systems+🤖)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Abdel+Ouahab+Boutefsout;Data+Science+%26+AI+Engineer;ENSA+Agadir+%7C+4th+Year;Building+intelligent+systems+🤖)
 
 </div>
 
