@@ -112,7 +112,7 @@ class Abdelouahab:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-abdelilhabboutefsout%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelilhabboutefsout@gmail.com)
+[![Email](https://img.shields.io/badge/Email-abdeloihabboutefsout%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdeloihabboutefsout@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-abd--elouahab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abd-elouahab)
 
 </div>
